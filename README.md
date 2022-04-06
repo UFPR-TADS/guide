@@ -45,3 +45,33 @@ This repository is a guide for all periods of the course!
 - Optativa 1
 
 # Modulo 06:
+- Direito Aplicado
+- Empreendedorismo e Inovação
+- Ferramentas da Qualidade
+- Governança de Tecnologia da Informação
+- Trabalho de Conclusão de Curso II
+- Optativa 2
+- Optativa 3
+- Optativa 4
+
+# Optativas:
+- Biologia Computacional e Sistemas
+- Gestão de Pessoas para Informática
+- Gestão de Processos
+- Informática na Educação
+- Inglês Técnico
+- Inteligência Artificial Aplicada I
+- Inteligência Artificial Aplicada II
+- Processamento Digital de Imagens
+- Processo de Software
+- Programação Vetorial
+- Relações Étnicas e de Raça no Brasil
+- Sistemas Embarcados e Internet das Coisas
+- Tecnologias Aplicadas na Educação à Distância
+- Tópicos Especiais em Algoritmos
+- Tópicos Especiais em Banco de Dados I
+- Tópicos Especiais em Banco de Dados II
+- Tópicos Especiais em Engenharia de Software
+- Tópicos Especiais em Redes de Computadores
+- Tópicos em Bioinformática e Biologia Computacional
+- 
