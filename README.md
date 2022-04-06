@@ -28,5 +28,12 @@ This repository is a guide for all periods of the course!
 - Sistemas Operacionais
 
 # Modulo 04:
+- Banco de Dados III
+- Desenvolvimento Web II
+- Engenharia de Software I
+- Estruturas de Dados II
+- Linguagem de Programação Orientada a Objetos II
+- Redação Técnica
+
 # Modulo 05:
 # Modulo 06:
