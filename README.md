@@ -19,6 +19,14 @@ This repository is a guide for all periods of the course!
 - Redes de Computadores
 
 # Modulo 03:
+- Análise e Projeto de Sistemas II
+- Banco de Dados II
+- Comportamento Organizacional
+- Estrutura de Dados I
+- Humanidades
+- Linguagem de Programação Orientada a Objetos I
+- Sistemas Operacionais
+
 # Modulo 04:
 # Modulo 05:
 # Modulo 06:
