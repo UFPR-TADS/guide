@@ -11,6 +11,13 @@ This repository is a guide for all periods of the course!
 - Sistemas de Informação
 
 # Modulo 02:
+- Análise e Projeto de Sistemas I
+- Banco de Dados I
+- Desenvolvimento Web I
+- Linguagem de Programação
+- Modelagem e Análise de Processos de Negócio
+- Redes de Computadores
+
 # Modulo 03:
 # Modulo 04:
 # Modulo 05:
