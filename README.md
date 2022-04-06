@@ -36,4 +36,12 @@ This repository is a guide for all periods of the course!
 - Redação Técnica
 
 # Modulo 05:
+- Desenvolvimento de Aplicações Corporativas
+- Desenvolvimento para Dispositivos Móveis
+- Engenharia de Software II
+- Gestão Empresas
+- Interação Humano-Computador
+- Trabalho de Conclusão de Curso I
+- Optativa 1
+
 # Modulo 06:
