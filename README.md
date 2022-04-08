@@ -2,13 +2,13 @@
 This repository is a guide for all periods of the course!
 
 # Modulo 01:
-- Administração de Sistemas
-- Engenharia de Requisitos
-- Estatística para Computação
-- Introdução à Arquitetura de Computadores
-- Matemática para Computação
-- Projeto de Algoritmos e Prática de Programação
-- Sistemas de Informação
+- [Administração de Sistemas](https://github.com/UFPR-TADS/DS010-ADMINISTRA-O-DE-SISTEMAS)
+- [Engenharia de Requisitos](https://github.com/UFPR-TADS/DS210-ENGENHARIA-DE-REQUISITOS)
+- [Estatística para Computação](https://github.com/UFPR-TADS/DS611-ESTATISTICA-PARA-COMPUTACAO)
+- [Introdução à Arquitetura de Computadores](https://github.com/UFPR-TADS/DS011-INTRODUCAO-A-ARQUITETURA-DE-COMPUTADORES)
+- [Matemática para Computação](https://github.com/UFPR-TADS/DS612-MATEMATICA-PARA-COMPUTACAO)
+- [Projeto de Algoritmos e Prática de Programação](https://github.com/UFPR-TADS/DS110-PROJETO-DE-ALGORITMOS-E-PR-TICA-DE-PROGRAMACAO)
+- [Sistemas de Informação](https://github.com/UFPR-TADS/DS211-SISTEMAS-DE-INFORMACAO)
 
 # Modulo 02:
 - Análise e Projeto de Sistemas I
@@ -74,4 +74,3 @@ This repository is a guide for all periods of the course!
 - Tópicos Especiais em Engenharia de Software
 - Tópicos Especiais em Redes de Computadores
 - Tópicos em Bioinformática e Biologia Computacional
-- 
