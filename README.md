@@ -11,8 +11,8 @@ This repository is a guide for all periods of the course!
 - [Sistemas de Informação](https://github.com/UFPR-TADS/DS211-SISTEMAS-DE-INFORMACAO)
 
 # Modulo 02:
-- Análise e Projeto de Sistemas I
-- Banco de Dados I
+- [Análise e Projeto de Sistemas I](https://github.com/UFPR-TADS/Analise-e-Projeto-de-Sistemas-I)
+- [Banco de Dados I]()
 - Desenvolvimento Web I
 - Linguagem de Programação
 - Modelagem e Análise de Processos de Negócio
