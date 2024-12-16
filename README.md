@@ -1,5 +1,5 @@
-# guide
-This repository is a guide for all periods of the course!
+# Guia do Curso
+Este repositório é um guia completo para todos os períodos do curso!
 
 # Periodo 01:
 - [Administração de Sistemas](https://github.com/UFPR-TADS/DS010-ADMINISTRA-O-DE-SISTEMAS)
