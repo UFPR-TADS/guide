@@ -1,7 +1,7 @@
 # guide
 This repository is a guide for all periods of the course!
 
-# Modulo 01:
+# Periodo 01:
 - [Administração de Sistemas](https://github.com/UFPR-TADS/DS010-ADMINISTRA-O-DE-SISTEMAS)
 - [Engenharia de Requisitos](https://github.com/UFPR-TADS/DS210-ENGENHARIA-DE-REQUISITOS)
 - [Estatística para Computação](https://github.com/UFPR-TADS/DS611-ESTATISTICA-PARA-COMPUTACAO)
@@ -10,7 +10,7 @@ This repository is a guide for all periods of the course!
 - [Projeto de Algoritmos e Prática de Programação](https://github.com/UFPR-TADS/DS110-PROJETO-DE-ALGORITMOS-E-PR-TICA-DE-PROGRAMACAO)
 - [Sistemas de Informação](https://github.com/UFPR-TADS/DS211-SISTEMAS-DE-INFORMACAO)
 
-# Modulo 02:
+# Periodo 02:
 - [Análise e Projeto de Sistemas I](https://github.com/UFPR-TADS/Analise-e-Projeto-de-Sistemas-I)
 - [Banco de Dados I](https://github.com/UFPR-TADS/Banco-de-Dados-I)
 - Desenvolvimento Web I
@@ -18,7 +18,7 @@ This repository is a guide for all periods of the course!
 - Modelagem e Análise de Processos de Negócio
 - Redes de Computadores
 
-# Modulo 03:
+# Periodo 03:
 - Análise e Projeto de Sistemas II
 - Banco de Dados II
 - Comportamento Organizacional
@@ -27,7 +27,7 @@ This repository is a guide for all periods of the course!
 - Linguagem de Programação Orientada a Objetos I
 - Sistemas Operacionais
 
-# Modulo 04:
+# Periodo 04:
 - Banco de Dados III
 - Desenvolvimento Web II
 - Engenharia de Software I
@@ -35,7 +35,7 @@ This repository is a guide for all periods of the course!
 - Linguagem de Programação Orientada a Objetos II
 - Redação Técnica
 
-# Modulo 05:
+# Periodo 05:
 - Desenvolvimento de Aplicações Corporativas
 - Desenvolvimento para Dispositivos Móveis
 - Engenharia de Software II
@@ -44,7 +44,7 @@ This repository is a guide for all periods of the course!
 - Trabalho de Conclusão de Curso I
 - Optativa 1
 
-# Modulo 06:
+# Periodo 06:
 - Direito Aplicado
 - Empreendedorismo e Inovação
 - Ferramentas da Qualidade
