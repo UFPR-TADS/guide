@@ -2,7 +2,7 @@
 Este repositório é um guia completo para todos os períodos do curso! Aqui você encontrará links para os materiais de cada disciplina, organizados por período. Utilize este guia para acessar rapidamente os recursos necessários para seus estudos.
 
 # Periodo 01:
-- [Administração de Sistemas](https://github.com/UFPR-TADS/DS010-ADMINISTRA-O-DE-SISTEMAS)
+- [Administração de Sistemas](https://github.com/UFPR-TADS/DS010)
 - [Engenharia de Requisitos](https://github.com/UFPR-TADS/DS210-ENGENHARIA-DE-REQUISITOS)
 - [Estatística para Computação](https://github.com/UFPR-TADS/DS611-ESTATISTICA-PARA-COMPUTACAO)
 - [Introdução à Arquitetura de Computadores](https://github.com/UFPR-TADS/DS011-INTRODUCAO-A-ARQUITETURA-DE-COMPUTADORES)
