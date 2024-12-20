@@ -9,7 +9,7 @@ Este repositório é um guia completo para todos os períodos do curso! Aqui voc
 - [Lógica Matemática](https://github.com/UFPR-TADS/DS614)
 - [Matemática para Computação](https://github.com/UFPR-TADS/DS612)
 - [Projeto de Algoritmos e Prática de Programação](https://github.com/UFPR-TADS/DS110)
-- [Sistemas de Informação](https://github.com/UFPR-TADS/DS211-SISTEMAS-DE-INFORMACAO)
+- [Sistemas de Informação](https://github.com/UFPR-TADS/DS211)
 
 # Periodo 02:
 - [Análise e Projeto de Sistemas I](https://github.com/UFPR-TADS/Analise-e-Projeto-de-Sistemas-I)
