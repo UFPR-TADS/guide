@@ -4,7 +4,7 @@ Este repositório é um guia completo para todos os períodos do curso! Aqui voc
 # Periodo 01:
 - [Administração de Sistemas](https://github.com/UFPR-TADS/DS010)
 - [Engenharia de Requisitos](https://github.com/UFPR-TADS/DS210)
-- [Estatística para Computação](https://github.com/UFPR-TADS/DS611-ESTATISTICA-PARA-COMPUTACAO)
+- [Estatística para Computação](https://github.com/UFPR-TADS/DS611)
 - [Introdução à Arquitetura de Computadores](https://github.com/UFPR-TADS/DS011-INTRODUCAO-A-ARQUITETURA-DE-COMPUTADORES)
 - [Matemática para Computação](https://github.com/UFPR-TADS/DS612-MATEMATICA-PARA-COMPUTACAO)
 - [Projeto de Algoritmos e Prática de Programação](https://github.com/UFPR-TADS/DS110-PROJETO-DE-ALGORITMOS-E-PR-TICA-DE-PROGRAMACAO)
