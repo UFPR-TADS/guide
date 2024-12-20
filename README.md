@@ -7,7 +7,7 @@ Este repositório é um guia completo para todos os períodos do curso! Aqui voc
 - [Estatística para Computação](https://github.com/UFPR-TADS/DS611)
 - [Introdução à Arquitetura de Computadores](https://github.com/UFPR-TADS/DS011)
 - [Matemática para Computação](https://github.com/UFPR-TADS/DS612)
-- [Projeto de Algoritmos e Prática de Programação](https://github.com/UFPR-TADS/DS110-PROJETO-DE-ALGORITMOS-E-PR-TICA-DE-PROGRAMACAO)
+- [Projeto de Algoritmos e Prática de Programação](https://github.com/UFPR-TADS/DS110)
 - [Sistemas de Informação](https://github.com/UFPR-TADS/DS211-SISTEMAS-DE-INFORMACAO)
 
 # Periodo 02:
