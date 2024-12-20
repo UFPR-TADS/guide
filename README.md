@@ -12,7 +12,7 @@ Este repositório é um guia completo para todos os períodos do curso! Aqui voc
 - [Sistemas de Informação](https://github.com/UFPR-TADS/DS211)
 
 # Periodo 02:
-- [Análise e Projeto de Sistemas I](https://github.com/UFPR-TADS/Analise-e-Projeto-de-Sistemas-I)
+- [Análise e Projeto de Sistemas I](https://github.com/UFPR-TADS/DS220)
 - [Banco de Dados I](https://github.com/UFPR-TADS/Banco-de-Dados-I)
 - Desenvolvimento Web I
 - Linguagem de Programação
